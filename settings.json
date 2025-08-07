@@ -1,0 +1,10 @@
+{
+  "RPCS3": {
+    "Location": "C:/Users/Matt/Documents/RPCS3",
+    "HideMainWindow": false
+  },
+  "Metadata": {
+    "EnableMusicBrainz": true,
+    "EnableAlbumArt": true
+  }
+}
